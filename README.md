@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @WingPig99
-<!-- - 👀 I’m interested in .
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... -->
-- 📫 You can find more about me at [http://blog.zs-cheng.me](http://blog.zs-cheng.me)
+# 👋 Hi, there
+
+- 🌿 I’m @WingPig99, a Ph.D student
+- 🌱 I’m currently learning LTE/5G security
+- 💞️ I’m looking to collaborate on VoLTE security
+- 📫 You can reach me [zs.cheng@hotmail.com](zs.cheng@hotmail.com)
 
 <!---
 WingPig99/WingPig99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
