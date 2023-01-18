@@ -2,7 +2,7 @@
 
 - 🌿 I’m @WingPig99, a Ph.D student
 - 🌱 I’m currently learning LTE/5G security
-- 💞️ I’m looking to collaborate on VoLTE security
+- 💞️ I’m looking to collaborate on VoLTE or air-interface protocols security
 - 📫 You can reach me [zs.cheng@hotmail.com](zs.cheng@hotmail.com)
 
 <!---
